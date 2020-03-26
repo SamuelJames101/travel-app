@@ -1,0 +1,11 @@
+/Users/samueljames/Projects/Travelapp/Travelapp/obj/Debug/netstandard2.0/Travelapp.csprojAssemblyReference.cache
+/Users/samueljames/Projects/Travelapp/Travelapp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/samueljames/Projects/Travelapp/Travelapp/obj/Debug/netstandard2.0/HistoryPage.xaml.g.cs
+/Users/samueljames/Projects/Travelapp/Travelapp/obj/Debug/netstandard2.0/HomePage.xaml.g.cs
+/Users/samueljames/Projects/Travelapp/Travelapp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/samueljames/Projects/Travelapp/Travelapp/obj/Debug/netstandard2.0/MapPage.xaml.g.cs
+/Users/samueljames/Projects/Travelapp/Travelapp/obj/Debug/netstandard2.0/MyPage.xaml.g.cs
+/Users/samueljames/Projects/Travelapp/Travelapp/obj/Debug/netstandard2.0/NewTravelPage.xaml.g.cs
+/Users/samueljames/Projects/Travelapp/Travelapp/obj/Debug/netstandard2.0/ProfilePage.xaml.g.cs
+/Users/samueljames/Projects/Travelapp/Travelapp/obj/Debug/netstandard2.0/Travelapp.AssemblyInfoInputs.cache
+/Users/samueljames/Projects/Travelapp/Travelapp/obj/Debug/netstandard2.0/Travelapp.AssemblyInfo.cs

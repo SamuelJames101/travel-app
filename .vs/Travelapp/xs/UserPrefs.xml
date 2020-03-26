@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{C17564A9-DEFE-4FA9-B935-65689F3BCB94}|Default">
+  <MonoDevelop.Ide.ItemProperties.Travelapp.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Travelapp.Android/MainActivity.cs">
+    <Files>
+      <File FileName="Travelapp.Android/MainActivity.cs" Line="38" Column="2" />
+      <File FileName="Travelapp/Model/Post.cs" Line="6" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Travelapp" expanded="True">
+            <Node name="Travelapp.Android" expanded="True">
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+            <Node name="Travelapp.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
